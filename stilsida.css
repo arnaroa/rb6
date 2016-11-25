@@ -1,0 +1,48 @@
+h1{
+	text-align: center;
+
+}
+
+body{
+	background-image:url(http://orig11.deviantart.net/948d/f/2015/356/b/4/rainbow_six_siege___black_fade_by_general_k1mb0-d9l4mks.jpg);
+	
+	background-size:2000px;
+	}
+
+
+p{
+	
+	padding-top :250px;
+	text-align: center;
+	width:48%;
+	float:left;
+	font-family: 'Anton', sans-serif;
+}
+
+
+
+.blur
+{
+	-webkit-filter: blur(10px); /* Chrome, Opera, etc. */
+  filter: url('blur.svg#blur'); /* Older FF and others - http://jordanhollinger.com/media/blur.svg */
+  filter: blur(10px); /* Firefox 35+, eventually all */
+  background-image:url(http://orig11.deviantart.net/948d/f/2015/356/b/4/rainbow_six_siege___black_fade_by_general_k1mb0-d9l4mks.jpg);
+  width: 57%;
+  height: 200px;
+  
+
+}
+
+iframe{
+	
+	display:block;
+	width: 300px;
+	height: px;
+	text-align: center;
+	position: fixed;
+	right:5%;
+	bottom:0.1%;
+	
+}
+
+
